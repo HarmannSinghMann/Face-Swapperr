@@ -5,18 +5,18 @@
 ### Let's Do it !! 
 
 ### Step 1 : 
-Take  a background Image 
+Take  a background Image and select the subject face .
 
 ![](input/comp_background.jpg) 
 
 ### Step 2 :
-Take a foreground Image 
+Take a foreground Image with approximate face dimentions as background subject's face.
 
 ![](input/comp_foreground.jpg) 
 
 
 ### Step 3 : 
-Make mask of the foreground Image
+Make a binary mask of the foreground subjects face .
 
 ![](input/comp_mask.jpg) 
 
