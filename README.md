@@ -11,9 +11,11 @@ Take  a background Image
 
 ### Step 2 :
 Take a foreground Image 
+
 ![](input/comp_foreground.jpg) 
 
 
 ### Step 3 : 
 Make mask of the foreground Image
+
 ![](input/comp_mask.jpg) 
