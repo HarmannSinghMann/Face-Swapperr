@@ -24,6 +24,7 @@ Make a binary mask of the foreground subjects face .
 ### Step 4 :
 Using matrix operations access the each pixel in the Mask , Select the index value of pixels with value == 255 , and using that index value copy the pixel in Foreground Image and paste them in Background Image  .
 
-## VOILA !!
 
 ![](output/composite.jpg) 
+
+## VOILA !!
