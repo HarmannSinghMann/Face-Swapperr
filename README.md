@@ -19,3 +19,9 @@ Take a foreground Image
 Make mask of the foreground Image
 
 ![](input/comp_mask.jpg) 
+
+
+### Step 4 :
+Using matrix operations access the each pixel in the Mask , Select the index value of pixels with value == 255 , and using that index value copy the pixel in Foreground Image and paste them in Background Image  
+
+![](output/composite.jpg) 
